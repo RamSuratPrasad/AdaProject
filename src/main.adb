@@ -4,7 +4,7 @@ with Ada.Strings.Unbounded; use Ada.Strings.Unbounded;
 with Ada.Text_IO; use Ada.Text_IO;
 with Ada.Integer_Text_IO; use Ada.Integer_Text_IO;
 with Ada.Sequential_IO;
---with IO_Exceptions;
+with IO_Exceptions;
 
 procedure Main is
    mainOption : Integer := 0;
