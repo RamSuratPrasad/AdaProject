@@ -7,6 +7,8 @@ with Ada.Strings.Unbounded;
 use Ada.Strings.Unbounded;
 with Ada.Sequential_IO;
 
+-- not in use
+
 package body department_handling is
    --package Student is new student_handling;
    student1 : student;--_handling.student := ( To_Unbounded_String("ShauryaAnsh Raunak"), 1147, To_Unbounded_String("28-07-2012"), 20, To_Unbounded_String("10-April-2015"), To_Unbounded_String("Male"), 1 ); -- hard coded
